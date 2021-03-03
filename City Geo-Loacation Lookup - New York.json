@@ -1,7 +1,7 @@
 {
 	"powerdBy":"deVru",
 	"Results":[
-		"0":{
+		{
 			"name":"New York City, New York"
 			"type":"city"
 			"c":"US"
@@ -12,8 +12,8 @@
 			"ll":"40.750134 -73.997009"
 			"lat":"40.750134"
 			"lon":"-73.997009"
-		}
-		1:{
+		},
+		{
 			"name":"New York Mills, New York"
 			"type":"city"
 			"c":"US"
@@ -24,8 +24,8 @@
 			"ll":"43.102306 -75.292511"
 			"lat":"43.102306"
 			"lon":"-75.292511"
-		}
-		2:{
+		},
+		{
 			"name":"New York Mills, Minnesota"
 			"type":"city"
 			"c":"US"
@@ -37,7 +37,7 @@
 			"lat":"46.565296"
 			"lon":"-95.411064"
 		}
-		3:{
+		{
 			"name":"New York"
 			"type":"state"
 			"c":"US"
@@ -48,8 +48,8 @@
 			"ll":"-9999.000000 -9999.000000"
 			"lat":"-9999.000000"
 			"lon":"-9999.000000"
-		}
-		4:{
+		},
+		{
 			"name":"New York Downtown Manhattan/w, New York"
 			"type":"city"
 			"c":"US"
@@ -60,8 +60,8 @@
 			"ll":"40.700001 -74.010002"
 			"lat":"40.700001"
 			"lon":"-74.010002"
-		}
-		5:{
+		},
+		{
 			"name":"New York JFK, New York"
 			"type":"city"
 			"c":"US"
@@ -72,8 +72,8 @@
 			"ll":"40.639999 -73.779999"
 			"lat":"40.639999"
 			"lon":"-73.779999"
-		}
-		6:{
+		},
+		{
 			"name":"New York Mills Municipal, Minnesota"
 			"type":"city"
 			"c":"US"
@@ -84,8 +84,8 @@
 			"ll":"46.501945 -95.337502"
 			"lat":"46.501945"
 			"lon":"-95.337502"
-		}
-		7:{
+		},
+		{
 			"name":"New York Skyports INC., New York"
 			"type":"city"
 			"c":"US"
@@ -96,8 +96,8 @@
 			"ll":"40.733990 -73.972916"
 			"lat":"40.733990"
 			"lon":"-73.972916"
-		}
-		8:{
+		},
+		{
 			"name":"New York State D.E.C. Indian Lake, New York"
 			"type":"city"
 			"c":"US"
@@ -108,8 +108,8 @@
 			"ll":"43.768055 -74.263336"
 			"lat":"43.768055"
 			"lon":"-74.263336"
-		}
-		9:{
+		},
+		{
 			"name":"New York State Police, New York"
 			"type":"city"
 			"c":"US"
@@ -120,8 +120,8 @@
 			"ll":"42.928398 -76.615501"
 			"lat":"42.928398"
 			"lon":"-76.615501"
-		}
-		10:{
+		},
+		{
 			"name":"New York, New York"
 			"type":"city"
 			"c":"US"
@@ -132,8 +132,8 @@
 			"ll":"40.750134 -73.997009"
 			"lat":"40.750134"
 			"lon":"-73.997009"
-		}
-		11:{
+		},
+		{
 			"name":"New York, Texas"
 			"type":"city"
 			"c":"US"
@@ -144,8 +144,8 @@
 			"ll":"32.149921 -95.613602"
 			"lat":"32.149921"
 			"lon":"-95.613602"
-		}
-		12:{
+		},
+		{
 			"name":"New York Academy of Art, New York"
 			"type":"city"
 			"c":"US"
@@ -155,8 +155,8 @@
 			"ll":"40.720001 -74.010002"
 			"lat":"40.720001"
 			"lon":"-74.010002"
-		}
-		13:{
+		},
+		{
 			"name":"New York Career Institute, New York"
 			"type":"city"
 			"c":"US"
@@ -166,8 +166,8 @@
 			"ll":"40.709999 -74.010002"
 			"lat":"40.709999"
 			"lon":"-74.010002"
-		}
-		14:{
+		},
+		{
 			"name":"New York Chiropractic College, New York"
 			"type":"city"
 			"c":"US"
@@ -177,8 +177,8 @@
 			"ll":"42.910000 -76.790001"
 			"lat":"42.910000"
 			"lon":"-76.790001"
-		}
-		15:{
+		},
+		{
 			"name":"New York College of Health Professions, New York"
 			"type":"city"
 			"c":"US"
@@ -188,8 +188,8 @@
 			"ll":"40.810001 -73.519997"
 			"lat":"40.810001"
 			"lon":"-73.519997"
-		}
-		16:{
+		},
+		{
 			"name":"New York College of Podiatric Medicine, New York"
 			"type":"city"
 			"c":"US"
@@ -199,8 +199,8 @@
 			"ll":"40.799999 -73.940002"
 			"lat":"40.799999"
 			"lon":"-73.940002"
-		}
-		17:{
+		},
+		{
 			"name":"New York Country Club, New York"
 			"type":"city"
 			"c":"US"
@@ -210,8 +210,8 @@
 			"ll":"41.139999 -74.050003"
 			"lat":"41.139999"
 			"lon":"-74.050003"
-		}
-		18:{
+		},
+		{
 			"name":"New York Elementary School, Kansas"
 			"type":"city"
 			"c":"US"
@@ -221,8 +221,8 @@
 			"ll":"38.970001 -95.230003"
 			"lat":"38.970001"
 			"lon":"-95.230003"
-		}
-		19:{
+		},
+		{
 			"name":"New York Elementary School, Missouri"
 			"type":"city"
 			"c":"US"
