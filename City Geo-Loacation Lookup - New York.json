@@ -2,235 +2,235 @@
 	"powerdBy":"deVru",
 	"Results":[
 		{
-			"name":"New York City, New York"
-			"type":"city"
-			"c":"US"
-			"zmw":"10001.5.99999"
-			"tz":"America/New_York"
-			"tzs":"EST"
-			"l":"/q/zmw:10001.5.99999"
-			"ll":"40.750134 -73.997009"
-			"lat":"40.750134"
+			"name":"New York City, New York",
+			"type":"city",
+			"c":"US",
+			"zmw":"10001.5.99999",
+			"tz":"America/New_York",
+			"tzs":"EST",
+			"l":"/q/zmw:10001.5.99999",
+			"ll":"40.750134 -73.997009",
+			"lat":"40.750134",
 			"lon":"-73.997009"
 		},
 		{
-			"name":"New York Mills, New York"
-			"type":"city"
-			"c":"US"
-			"zmw":"13417.1.99999"
-			"tz":"America/New_York"
-			"tzs":"EST"
-			"l":"/q/zmw:13417.1.99999"
-			"ll":"43.102306 -75.292511"
-			"lat":"43.102306"
+			"name":"New York Mills, New York",
+			"type":"city",
+			"c":"US",
+			"zmw":"13417.1.99999",
+			"tz":"America/New_York",
+			"tzs":"EST",
+			"l":"/q/zmw:13417.1.99999",
+			"ll":"43.102306 -75.292511",
+			"lat":"43.102306",
 			"lon":"-75.292511"
 		},
 		{
-			"name":"New York Mills, Minnesota"
-			"type":"city"
-			"c":"US"
-			"zmw":"56567.1.99999"
-			"tz":"America/Chicago"
-			"tzs":"CST"
-			"l":"/q/zmw:56567.1.99999"
-			"ll":"46.565296 -95.411064"
-			"lat":"46.565296"
+			"name":"New York Mills, Minnesota",
+			"type":"city",
+			"c":"US",
+			"zmw":"56567.1.99999",
+			"tz":"America/Chicago",
+			"tzs":"CST",
+			"l":"/q/zmw:56567.1.99999",
+			"ll":"46.565296 -95.411064",
+			"lat":"46.565296",
 			"lon":"-95.411064"
 		}
 		{
-			"name":"New York"
-			"type":"state"
-			"c":"US"
-			"zmw":"0NYUS.1.99999"
-			"tz":"MISSING"
-			"tzs":"MISSING"
-			"l":"/q/US/New York"
-			"ll":"-9999.000000 -9999.000000"
-			"lat":"-9999.000000"
+			"name":"New York",
+			"type":"state",
+			"c":"US",
+			"zmw":"0NYUS.1.99999",
+			"tz":"MISSING",
+			"tzs":"MISSING",
+			"l":"/q/US/New York",
+			"ll":"-9999.000000 -9999.000000",
+			"lat":"-9999.000000",
 			"lon":"-9999.000000"
 		},
 		{
-			"name":"New York Downtown Manhattan/w, New York"
-			"type":"city"
-			"c":"US"
-			"zmw":"10269.6.99999"
-			"tz":"America/New_York"
-			"tzs":"EST"
-			"l":"/q/zmw:10269.6.99999"
-			"ll":"40.700001 -74.010002"
-			"lat":"40.700001"
+			"name":"New York Downtown Manhattan/w, New York",
+			"type":"city",
+			"c":"US",
+			"zmw":"10269.6.99999",
+			"tz":"America/New_York",
+			"tzs":"EST",
+			"l":"/q/zmw:10269.6.99999",
+			"ll":"40.700001 -74.010002",
+			"lat":"40.700001",
 			"lon":"-74.010002"
 		},
 		{
-			"name":"New York JFK, New York"
-			"type":"city"
-			"c":"US"
-			"zmw":"11499.7.99999"
-			"tz":"America/New_York"
-			"tzs":"EST"
-			"l":"/q/zmw:11499.7.99999"
-			"ll":"40.639999 -73.779999"
-			"lat":"40.639999"
+			"name":"New York JFK, New York",
+			"type":"city",
+			"c":"US",
+			"zmw":"11499.7.99999",
+			"tz":"America/New_York",
+			"tzs":"EST",
+			"l":"/q/zmw:11499.7.99999",
+			"ll":"40.639999 -73.779999",
+			"lat":"40.639999",
 			"lon":"-73.779999"
 		},
 		{
-			"name":"New York Mills Municipal, Minnesota"
-			"type":"city"
-			"c":"US"
-			"zmw":"56567.4.99999"
-			"tz":"America/Chicago"
-			"tzs":"CST"
-			"l":"/q/zmw:56567.4.99999"
-			"ll":"46.501945 -95.337502"
-			"lat":"46.501945"
+			"name":"New York Mills Municipal, Minnesota",
+			"type":"city",
+			"c":"US",
+			"zmw":"56567.4.99999",
+			"tz":"America/Chicago",
+			"tzs":"CST",
+			"l":"/q/zmw:56567.4.99999",
+			"ll":"46.501945 -95.337502",
+			"lat":"46.501945",
 			"lon":"-95.337502"
 		},
 		{
-			"name":"New York Skyports INC., New York"
-			"type":"city"
-			"c":"US"
-			"zmw":"10110.3.99999"
-			"tz":"America/New_York"
-			"tzs":"EST"
-			"l":"/q/zmw:10110.3.99999"
-			"ll":"40.733990 -73.972916"
-			"lat":"40.733990"
+			"name":"New York Skyports INC., New York",
+			"type":"city",
+			"c":"US",
+			"zmw":"10110.3.99999",
+			"tz":"America/New_York",
+			"tzs":"EST",
+			"l":"/q/zmw:10110.3.99999",
+			"ll":"40.733990 -73.972916",
+			"lat":"40.733990",
 			"lon":"-73.972916"
 		},
 		{
-			"name":"New York State D.E.C. Indian Lake, New York"
-			"type":"city"
-			"c":"US"
-			"zmw":"12842.3.99999"
-			"tz":"America/New_York"
-			"tzs":"EST"
-			"l":"/q/zmw:12842.3.99999"
-			"ll":"43.768055 -74.263336"
-			"lat":"43.768055"
+			"name":"New York State D.E.C. Indian Lake, New York",
+			"type":"city",
+			"c":"US",
+			"zmw":"12842.3.99999",
+			"tz":"America/New_York",
+			"tzs":"EST",
+			"l":"/q/zmw:12842.3.99999",
+			"ll":"43.768055 -74.263336",
+			"lat":"43.768055",
 			"lon":"-74.263336"
 		},
 		{
-			"name":"New York State Police, New York"
-			"type":"city"
-			"c":"US"
-			"zmw":"13021.9.99999"
-			"tz":"America/New_York"
-			"tzs":"EST"
-			"l":"/q/zmw:13021.9.99999"
-			"ll":"42.928398 -76.615501"
-			"lat":"42.928398"
+			"name":"New York State Police, New York",
+			"type":"city",
+			"c":"US",
+			"zmw":"13021.9.99999",
+			"tz":"America/New_York",
+			"tzs":"EST",
+			"l":"/q/zmw:13021.9.99999",
+			"ll":"42.928398 -76.615501",
+			"lat":"42.928398",
 			"lon":"-76.615501"
 		},
 		{
-			"name":"New York, New York"
-			"type":"city"
-			"c":"US"
-			"zmw":"10001.1.99999"
-			"tz":"America/New_York"
-			"tzs":"EST"
-			"l":"/q/zmw:10001.1.99999"
-			"ll":"40.750134 -73.997009"
-			"lat":"40.750134"
+			"name":"New York, New York",
+			"type":"city",
+			"c":"US",
+			"zmw":"10001.1.99999",
+			"tz":"America/New_York",
+			"tzs":"EST",
+			"l":"/q/zmw:10001.1.99999",
+			"ll":"40.750134 -73.997009",
+			"lat":"40.750134",
 			"lon":"-73.997009"
 		},
 		{
-			"name":"New York, Texas"
-			"type":"city"
-			"c":"US"
-			"zmw":"75770.3.99999"
-			"tz":"America/Chicago"
-			"tzs":"CST"
-			"l":"/q/zmw:75770.3.99999"
-			"ll":"32.149921 -95.613602"
-			"lat":"32.149921"
+			"name":"New York, Texas",
+			"type":"city",
+			"c":"US",
+			"zmw":"75770.3.99999",
+			"tz":"America/Chicago",
+			"tzs":"CST",
+			"l":"/q/zmw:75770.3.99999",
+			"ll":"32.149921 -95.613602",
+			"lat":"32.149921",
 			"lon":"-95.613602"
 		},
 		{
-			"name":"New York Academy of Art, New York"
-			"type":"city"
-			"c":"US"
-			"zmw":"10013.1.99999"
-			"tz":"US1"
-			"l":"/q/locid:366368"
-			"ll":"40.720001 -74.010002"
-			"lat":"40.720001"
+			"name":"New York Academy of Art, New York",
+			"type":"city",
+			"c":"US",
+			"zmw":"10013.1.99999",
+			"tz":"US1",
+			"l":"/q/locid:366368",
+			"ll":"40.720001 -74.010002",
+			"lat":"40.720001",
 			"lon":"-74.010002"
 		},
 		{
-			"name":"New York Career Institute, New York"
-			"type":"city"
-			"c":"US"
-			"zmw":"10007.1.99999"
-			"tz":"US1"
-			"l":"/q/locid:195845"
-			"ll":"40.709999 -74.010002"
-			"lat":"40.709999"
+			"name":"New York Career Institute, New York",
+			"type":"city",
+			"c":"US",
+			"zmw":"10007.1.99999",
+			"tz":"US1",
+			"l":"/q/locid:195845",
+			"ll":"40.709999 -74.010002",
+			"lat":"40.709999",
 			"lon":"-74.010002"
 		},
 		{
-			"name":"New York Chiropractic College, New York"
-			"type":"city"
-			"c":"US"
-			"zmw":"13148.1.99999"
-			"tz":"US1"
-			"l":"/q/locid:193751"
-			"ll":"42.910000 -76.790001"
-			"lat":"42.910000"
+			"name":"New York Chiropractic College, New York",
+			"type":"city",
+			"c":"US",
+			"zmw":"13148.1.99999",
+			"tz":"US1",
+			"l":"/q/locid:193751",
+			"ll":"42.910000 -76.790001",
+			"lat":"42.910000",
 			"lon":"-76.790001"
 		},
 		{
-			"name":"New York College of Health Professions, New York"
-			"type":"city"
-			"c":"US"
-			"zmw":"11791.1.99999"
-			"tz":"US1"
-			"l":"/q/locid:418126"
-			"ll":"40.810001 -73.519997"
-			"lat":"40.810001"
+			"name":"New York College of Health Professions, New York",
+			"type":"city",
+			"c":"US",
+			"zmw":"11791.1.99999",
+			"tz":"US1",
+			"l":"/q/locid:418126",
+			"ll":"40.810001 -73.519997",
+			"lat":"40.810001",
 			"lon":"-73.519997"
 		},
 		{
-			"name":"New York College of Podiatric Medicine, New York"
-			"type":"city"
-			"c":"US"
-			"zmw":"10035.1.99999"
-			"tz":"US1"
-			"l":"/q/locid:194073"
-			"ll":"40.799999 -73.940002"
-			"lat":"40.799999"
+			"name":"New York College of Podiatric Medicine, New York",
+			"type":"city",
+			"c":"US",
+			"zmw":"10035.1.99999",
+			"tz":"US1",
+			"l":"/q/locid:194073",
+			"ll":"40.799999 -73.940002",
+			"lat":"40.799999",
 			"lon":"-73.940002"
 		},
 		{
-			"name":"New York Country Club, New York"
-			"type":"city"
-			"c":"US"
-			"zmw":"10977.1.99999"
-			"tz":"US1"
-			"l":"/q/locid:1050308"
-			"ll":"41.139999 -74.050003"
-			"lat":"41.139999"
+			"name":"New York Country Club, New York",
+			"type":"city",
+			"c":"US",
+			"zmw":"10977.1.99999",
+			"tz":"US1",
+			"l":"/q/locid:1050308",
+			"ll":"41.139999 -74.050003",
+			"lat":"41.139999",
 			"lon":"-74.050003"
 		},
 		{
-			"name":"New York Elementary School, Kansas"
-			"type":"city"
-			"c":"US"
-			"zmw":"66044.1.99999"
-			"tz":"US2"
-			"l":"/q/locid:6604401370"
-			"ll":"38.970001 -95.230003"
-			"lat":"38.970001"
+			"name":"New York Elementary School, Kansas",
+			"type":"city",
+			"c":"US",
+			"zmw":"66044.1.99999",
+			"tz":"US2",
+			"l":"/q/locid:6604401370",
+			"ll":"38.970001 -95.230003",
+			"lat":"38.970001",
 			"lon":"-95.230003"
 		},
 		{
-			"name":"New York Elementary School, Missouri"
-			"type":"city"
-			"c":"US"
-			"zmw":"64644.1.99999"
-			"tz":"US2"
-			"l":"/q/locid:6464401227"
-			"ll":"39.689999 -93.930000"
-			"lat":"39.689999"
+			"name":"New York Elementary School, Missouri",
+			"type":"city",
+			"c":"US",
+			"zmw":"64644.1.99999",
+			"tz":"US2",
+			"l":"/q/locid:6464401227",
+			"ll":"39.689999 -93.930000",
+			"lat":"39.689999",
 			"lon":"-93.930000"
 		}
 	]
